@@ -1,0 +1,19 @@
+{
+    "name": "arthurcodelab/microservices-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arthurcodelab\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur Campos",
+            "email": "arthur@codelab.digital"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
